@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sum&Sequence_1",
+        "ExtrSaleAmount&Sequence_4",
+        "CurencyMatch&Sequence_4",
+        "ExtrDateFormt&Sequence_4",
+        "ExtrDate&Sequence_4",
+        "ListOfDate&Sequence_4",
+        "ExtrTrxID&Sequence_4",
+        "ExtRecID&Sequence_4",
+        "EightConsecutivDigits&Sequence_4",
+        "PDFtext&TryCatch_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

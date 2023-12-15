@@ -1,0 +1,21 @@
+Dear Human,
+
+your email automation robot has successfully completed {0}
+
+The following log are recorded:
+
+
+
+
+
+
+{1}
+
+
+
+
+
+
+
+Rio Farera,
+Email automation Robot
